@@ -1,0 +1,14 @@
+platformName: Android
+platformVersion: 5.1.1
+#platformVersion: 8.0
+deviceName: 127.0.0.1:62026
+#deviceName: GWY0217710001353
+#udid: 127.0.0.1:62026
+#udid: GWY0217710001353
+app: C:\Users\Administrator\Desktop\base.apk
+appPackage: com.mymoney
+appActivity: com.mymoney.biz.splash.SplashScreenActivity
+#noReset: False
+#automationName: uiautomator2
+ip: 127.0.0.1
+port: 4723

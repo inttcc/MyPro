@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a28253f-8969-4d61-bb93-ac0656eb4528" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Stest$assad.coverage" NAME="assad Coverage Results" MODIFIED="1553068391774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_test_login_case_ZenTaoLogin_test02.coverage" NAME="Unittests for test_login_case.ZenTaoLogin.test02 Coverage Results" MODIFIED="1557303551857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$hll_join.coverage" NAME="hll_join Coverage Results" MODIFIED="1554195433776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huolaile" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_t1_zentaoLoginTestCase.coverage" NAME="Unittests for t1.zentaoLoginTestCase Coverage Results" MODIFIED="1556269779458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframe" />
+    <SUITE FILE_PATH="coverage/Stest$capability_yaml.coverage" NAME="capability_yaml Coverage Results" MODIFIED="1555382200538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_yaml" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_test_login_page_ZentaoLoginPage.coverage" NAME="Unittests for test_login_page.ZentaoLoginPage Coverage Results" MODIFIED="1557483050817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$by_h5.coverage" NAME="by_h5 Coverage Results" MODIFIED="1554367319697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com_demo" />
+    <SUITE FILE_PATH="coverage/Stest$kyb_join.coverage" NAME="kyb_join Coverage Results" MODIFIED="1554271604892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$kyb_login.coverage" NAME="kyb_login Coverage Results" MODIFIED="1554275668430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$hll_login.coverage" NAME="hll_login Coverage Results" MODIFIED="1554339417589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huolaile" />
+    <SUITE FILE_PATH="coverage/Stest$add_bug.coverage" NAME="add_bug Coverage Results" MODIFIED="1557310281352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/commondef" />
+    <SUITE FILE_PATH="coverage/Stest$base.coverage" NAME="base Coverage Results" MODIFIED="1557545650512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/commondef" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_t1_zentaoLoginTestCase_test01.coverage" NAME="Unittests for t1.zentaoLoginTestCase.test01 Coverage Results" MODIFIED="1556249053551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframe" />
+    <SUITE FILE_PATH="coverage/Stest$Test_find_element01.coverage" NAME="Test_find_element01 Coverage Results" MODIFIED="1551255227439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTest01" />
+    <SUITE FILE_PATH="coverage/Stest$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1551519838062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com_demo" />
+    <SUITE FILE_PATH="coverage/Stest$kyb_register.coverage" NAME="kyb_register Coverage Results" MODIFIED="1553160616795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$kyb_start.coverage" NAME="kyb_start Coverage Results" MODIFIED="1554276655011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$logging_test.coverage" NAME="logging_test Coverage Results" MODIFIED="1555398496448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_log" />
+    <SUITE FILE_PATH="coverage/Stest$Capability_huawei.coverage" NAME="Capability_huawei Coverage Results" MODIFIED="1553138684829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$LoginDef.coverage" NAME="LoginDef Coverage Results" MODIFIED="1556430702454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/commondef" />
+    <SUITE FILE_PATH="coverage/Stest$temp.coverage" NAME="temp Coverage Results" MODIFIED="1557307551748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/commondef" />
+    <SUITE FILE_PATH="coverage/Stest$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1557741825069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/pages" />
+    <SUITE FILE_PATH="coverage/Stest$Mail_text.coverage" NAME="Mail_text Coverage Results" MODIFIED="1551255319810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTest01" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_t1_zentaoLoginTestCase_test02.coverage" NAME="Unittests for t1.zentaoLoginTestCase.test02 Coverage Results" MODIFIED="1556269675035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframe" />
+    <SUITE FILE_PATH="coverage/Stest$Capability_nox.coverage" NAME="Capability_nox Coverage Results" MODIFIED="1554111016082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huolaile" />
+    <SUITE FILE_PATH="coverage/Stest$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1556084830521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_auto" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_in_test_login_case_py.coverage" NAME="Unittests in test_login_case.py Coverage Results" MODIFIED="1556431999848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$run_all__1_.coverage" NAME="run_all (1) Coverage Results" MODIFIED="1557731176787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest" />
+    <SUITE FILE_PATH="coverage/Stest$DemoTest.coverage" NAME="DemoTest Coverage Results" MODIFIED="1553065760197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1556182949977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_auto" />
+    <SUITE FILE_PATH="coverage/Stest$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1557799661882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_test_login_case_ZenTaoLogin_test01.coverage" NAME="Unittests for test_login_case.ZenTaoLogin.test01 Coverage Results" MODIFIED="1556430298630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$tt1.coverage" NAME="tt1 Coverage Results" MODIFIED="1557800615143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest" />
+    <SUITE FILE_PATH="coverage/Stest$Test_01.coverage" NAME="Test_01 Coverage Results" MODIFIED="1553069099875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appauto" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_for_test_add_bug_case_ZentaoAddBug.coverage" NAME="Unittests for test_add_bug_case.ZentaoAddBug Coverage Results" MODIFIED="1557372434895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_in_test_login_page_py.coverage" NAME="Unittests in test_login_page.py Coverage Results" MODIFIED="1557483269919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1556171592530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_auto" />
+    <SUITE FILE_PATH="coverage/Stest$Unittests_in_test_add_bug_case_py.coverage" NAME="Unittests in test_add_bug_case.py Coverage Results" MODIFIED="1557386262367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/case" />
+    <SUITE FILE_PATH="coverage/Stest$LoginFunc.coverage" NAME="LoginFunc Coverage Results" MODIFIED="1557308151657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WebForTest/commondef" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../WebForTest/run_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#46#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_window_size</find>
+      <find>wd</find>
+      <find>open</find>
+      <find>ele</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com_demo/Test01.py" />
+        <option value="$PROJECT_DIR$/appauto/DemoTest.py" />
+        <option value="$PROJECT_DIR$/appauto/assad.py" />
+        <option value="$PROJECT_DIR$/appauto/Test_01.py" />
+        <option value="$PROJECT_DIR$/appauto/Capability.py" />
+        <option value="$PROJECT_DIR$/appauto/Capability_huawei.py" />
+        <option value="$PROJECT_DIR$/appauto/kyb_register.py" />
+        <option value="$PROJECT_DIR$/huolaile/swipe.py" />
+        <option value="$PROJECT_DIR$/huolaile/Capability_nox.py" />
+        <option value="$PROJECT_DIR$/huolaile/hll_login.py" />
+        <option value="$PROJECT_DIR$/huolaile/hll_join.py" />
+        <option value="$PROJECT_DIR$/appauto/swipe_action.py" />
+        <option value="$PROJECT_DIR$/appauto/Capability_nox.py" />
+        <option value="$PROJECT_DIR$/appauto/kyb_join.py" />
+        <option value="$PROJECT_DIR$/appauto/kyb_start.py" />
+        <option value="$PROJECT_DIR$/appauto/kyb_login.py" />
+        <option value="$PROJECT_DIR$/appauto/element_wait.py" />
+        <option value="$PROJECT_DIR$/com_demo/Capability_nox.py" />
+        <option value="$PROJECT_DIR$/com_demo/by_h5.py" />
+        <option value="$PROJECT_DIR$/appauto/touch_action.py" />
+        <option value="$PROJECT_DIR$/yaml/yaml_load.py" />
+        <option value="$PROJECT_DIR$/yaml/desired_caps.yaml" />
+        <option value="$PROJECT_DIR$/yaml/capability_yaml.py" />
+        <option value="$PROJECT_DIR$/my_yaml/desired_caps.yaml" />
+        <option value="$PROJECT_DIR$/my_yaml/capability_yaml.py" />
+        <option value="$PROJECT_DIR$/my_log/logging_test.py" />
+        <option value="$PROJECT_DIR$/web_auto/t2.py" />
+        <option value="$PROJECT_DIR$/web_auto/t3.py" />
+        <option value="$PROJECT_DIR$/webframe/t1.py" />
+        <option value="$PROJECT_DIR$/webframe/t2.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/test_001.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/login_case.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/ZenTaoLogin.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/logindef.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/ZenTaoLogin.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/LoginDef.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/Base.py" />
+        <option value="$PROJECT_DIR$/web_auto/t1.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/temp.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/LoginFunc.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/add_bug.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/test_add_bug_case.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/pages/LoginFunc.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/test_login_case.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/case/test_login_page.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/commondef/base.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/pages/run_all.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/pages/add_bug.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/tt1.py" />
+        <option value="$PROJECT_DIR$/../WebForTest/run_all.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="482" />
+    <option name="y" value="294" />
+    <option name="width" value="1400" />
+    <option name="height" value="986" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Stest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebForTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\WebForTest\case" />
+      <recent name="E:\PycharmProjects\WebForTest\mytools" />
+      <recent name="E:\PycharmProjects\Stest\common" />
+      <recent name="E:\PycharmProjects\Stest\com_demo" />
+      <recent name="E:\PycharmProjects\Stest\appauto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\WebForTest" />
+      <recent name="E:\PycharmProjects\WebForTest\pages" />
+      <recent name="E:\PycharmProjects\WebForTest\controltest" />
+      <recent name="E:\PycharmProjects\WebForTest\case" />
+      <recent name="E:\PycharmProjects\WebForTest\commondef" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tt1">
+    <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebForTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WebForTest/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WebForTest/pages/login_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebForTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WebForTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WebForTest/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebForTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WebForTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WebForTest/tt1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tt1" />
+        <item itemvalue="Python.run_all" />
+        <item itemvalue="Python.login_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a28253f-8969-4d61-bb93-ac0656eb4528" name="Default Changelist" comment="" />
+      <created>1551060966105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551060966105</updated>
+      <workItem from="1551060973898" duration="65000" />
+      <workItem from="1551061641218" duration="17795000" />
+      <workItem from="1551143298513" duration="31457000" />
+      <workItem from="1551319856259" duration="3077000" />
+      <workItem from="1551339473532" duration="1215000" />
+      <workItem from="1551401451721" duration="2434000" />
+      <workItem from="1551488600277" duration="9384000" />
+      <workItem from="1551518584819" duration="2168000" />
+      <workItem from="1552531660641" duration="2821000" />
+      <workItem from="1552613629611" duration="5429000" />
+      <workItem from="1552699341749" duration="3562000" />
+      <workItem from="1552960265207" duration="4785000" />
+      <workItem from="1553045782738" duration="11614000" />
+      <workItem from="1553129587252" duration="6650000" />
+      <workItem from="1553155906945" duration="2571000" />
+      <workItem from="1553243276767" duration="757000" />
+      <workItem from="1553585939605" duration="711000" />
+      <workItem from="1553764846316" duration="614000" />
+      <workItem from="1554110427871" duration="1612000" />
+      <workItem from="1554186558255" duration="8515000" />
+      <workItem from="1554257662373" duration="12948000" />
+      <workItem from="1554339380227" duration="4749000" />
+      <workItem from="1554359088052" duration="7723000" />
+      <workItem from="1554689035601" duration="8293000" />
+      <workItem from="1554707255829" duration="946000" />
+      <workItem from="1554770243442" duration="15582000" />
+      <workItem from="1554799682669" duration="3743000" />
+      <workItem from="1555379593421" duration="6010000" />
+      <workItem from="1555983969984" duration="6075000" />
+      <workItem from="1556069841092" duration="11581000" />
+      <workItem from="1556157142526" duration="8895000" />
+      <workItem from="1556239741645" duration="9289000" />
+      <workItem from="1556326028484" duration="912000" />
+      <workItem from="1556328403753" duration="462000" />
+      <workItem from="1556329006776" duration="5237000" />
+      <workItem from="1556355883831" duration="609000" />
+      <workItem from="1556412508768" duration="4943000" />
+      <workItem from="1556430974455" duration="6193000" />
+      <workItem from="1556499468203" duration="6063000" />
+      <workItem from="1556585183522" duration="15777000" />
+      <workItem from="1557017201844" duration="616000" />
+      <workItem from="1557024649653" duration="8548000" />
+      <workItem from="1557107503022" duration="6321000" />
+      <workItem from="1557190571253" duration="6240000" />
+      <workItem from="1557210255769" duration="10063000" />
+      <workItem from="1557282884509" duration="10624000" />
+      <workItem from="1557362884306" duration="4833000" />
+      <workItem from="1557472953899" duration="8634000" />
+      <workItem from="1557536695566" duration="9758000" />
+      <workItem from="1557708232297" duration="2642000" />
+      <workItem from="1557730989186" duration="286000" />
+      <workItem from="1557731325785" duration="5369000" />
+      <workItem from="1557740822700" duration="1085000" />
+      <workItem from="1557795687221" duration="3389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login_case_py - 2019.04.28 at 14h 07m 52s.xml">
+      <configuration name="Unittests in test_login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_case_py - 2019.04.28 at 14h 13m 35s.xml">
+      <configuration name="Unittests in test_login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_case_ZenTaoLogin_test02 - 2019.04.28 at 16h 09m 14s.xml">
+      <configuration name="Unittests for test_login_case.ZenTaoLogin.test02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_case_ZenTaoLogin_test02 - 2019.04.28 at 16h 10m 13s.xml">
+      <configuration name="Unittests for test_login_case.ZenTaoLogin.test02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_case_ZenTaoLogin_test02 - 2019.05.08 at 16h 17m 20s.xml">
+      <configuration name="Unittests for test_login_case.ZenTaoLogin.test02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_case_ZenTaoLogin_test02 - 2019.05.08 at 16h 19m 23s.xml">
+      <configuration name="Unittests for test_login_case.ZenTaoLogin.test02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_bug_case_ZentaoAddBug - 2019.05.09 at 11h 27m 30s.xml">
+      <configuration name="Unittests for test_add_bug_case.ZentaoAddBug" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_add_bug_case_py - 2019.05.09 at 15h 17m 54s.xml">
+      <configuration name="Unittests in test_add_bug_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_page_ZentaoLoginPage - 2019.05.10 at 18h 11m 09s.xml">
+      <configuration name="Unittests for test_login_page.ZentaoLoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_page_py - 2019.05.10 at 18h 14m 53s.xml">
+      <configuration name="Unittests in test_login_page.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="331674000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.33766234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3296875" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WebForTest/report/report.html" />
+    <entry file="file://$PROJECT_DIR$/../WebForTest/case/login_case.py" />
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframe/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/common/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_auto/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_auto/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" column="72" lean-forward="true" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_auto/t3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="241" selection-start-line="241" selection-end-line="242" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/mytools/HTMLTestRunner_cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="866" column="8" selection-start-line="866" selection-start-column="8" selection-end-line="866" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-965060394/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3087">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/controltest/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/common/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/remote/switch_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="e#22#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/case/test_login_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/case/test_login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="158" column="28" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/Capability_nox.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/kyb_join.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/kyb_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/kyb_register.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/swipe_action.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/touch_action.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appauto/Capability_huawei.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_yaml/desired_caps.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_yaml/capability_yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="615" column="40" selection-start-line="615" selection-start-column="40" selection-end-line="615" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/commondef/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="140" selection-start-line="140" selection-end-line="141" />
+          <folding>
+            <element signature="e#46#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/report/result.html" />
+    <entry file="file://$PROJECT_DIR$/../WebForTest/case/run_all.py" />
+    <entry file="file://$PROJECT_DIR$/../WebForTest/case/test_add_bug_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-965060394/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47020">
+          <caret line="3578" column="6" selection-start-line="3578" selection-start-column="6" selection-end-line="3578" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/pythonwin/pywin/scintilla/keycodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/pythonwin/pywin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/__future__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2709">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/selenium/webdriver/common/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/pymouse/x11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2111">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/pykeyboard/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/pykeyboard/x11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/pages/add_bug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/tt1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebForTest/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

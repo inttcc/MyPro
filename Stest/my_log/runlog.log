@@ -1,0 +1,15 @@
+2019-04-16 13:44:55,617 logging_test.py[line:11] DEBUG debug info
+2019-04-16 13:44:55,617 logging_test.py[line:12] INFO hello world
+2019-04-16 13:44:55,617 logging_test.py[line:13] WARNING warning info
+2019-04-16 13:44:55,617 logging_test.py[line:14] ERROR error info
+2019-04-16 13:44:55,617 logging_test.py[line:15] CRITICAL critical info
+2019-04-16 13:46:22,590 logging_test.py[line:11] DEBUG debug info
+2019-04-16 13:46:22,591 logging_test.py[line:12] INFO hello world
+2019-04-16 13:46:22,591 logging_test.py[line:13] WARNING warning info
+2019-04-16 13:46:22,591 logging_test.py[line:14] ERROR error info
+2019-04-16 13:46:22,591 logging_test.py[line:15] CRITICAL critical info
+2019-04-16 15:08:17,301 logging_test.py[line:11] DEBUG debug info
+2019-04-16 15:08:17,315 logging_test.py[line:12] INFO hello world
+2019-04-16 15:08:17,316 logging_test.py[line:13] WARNING warning info
+2019-04-16 15:08:17,316 logging_test.py[line:14] ERROR error info
+2019-04-16 15:08:17,316 logging_test.py[line:15] CRITICAL critical info
