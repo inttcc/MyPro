@@ -5,7 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 import logging,time,os
 
 
-class Base:
+class BaseView:
     '''二次封装'''
 
     def __init__(self, driver: webdriver.Remote):
@@ -98,7 +98,7 @@ class Base:
 if __name__ == '__main__':
     from common.desired_caps import appium_desired
     driver = appium_desired()
-    app = Base(driver)
+    app = BaseView(driver)
     time.sleep(2)
 
     print(app.getScreenShot('启动页'))
