@@ -1,0 +1,46 @@
+2019-05-21 15:03:46 - base - 7640 - INFO : 正在定位元素信息，定位方式——>id，value值——>account
+2019-05-21 15:05:00 - base - 12660 - WARNING : locator参数类型错误，必须传元组类型：loc=("id","value")
+2019-05-21 15:13:57  base.py[line:22]   WARNING : locator参数类型错误，必须传元组类型：loc=("id","value")
+2019-05-21 15:42:27  logtoout.py[line:25]   ERROR : that's the error!!!!
+2019-05-21 15:44:07  logtoout.py[line:19]   INFO : right!!!!!!!!!!!!!
+2019-05-21 15:45:01  logtoout.py[line:19]   INFO : That's the info!!!!!!!!!!!!!!!!!!!!!!!!!
+2019-05-21 16:25:14  logtoout.py[line:19]   INFO : ==========start  app==========
+2019-05-21 16:26:26  logtoout.py[line:19]   INFO : ==========start  app==========
+2019-05-21 16:27:59  logtoout.py[line:19]   INFO : ==========start  app==========
+2019-05-21 16:59:30  logtoout.py[line:19]   INFO : ==========start  app==========
+2019-05-21 17:15:08  logtoout.py[line:19]   INFO : ==========start  app==========
+2019-05-21 17:22:00  desired_caps.py[line:25]   INFO : ==========start  app==========
+2019-05-21 17:36:29  desired_caps.py[line:25]   DEBUG : ==========start  app==========
+2019-05-21 17:45:36  logtoout.py[line:14]   ERROR : error!!!!!!!!!!!!!!!!!
+2019-05-22 09:57:31  desired_caps.py[line:26]   INFO : ==========start  app==========
+2019-05-22 10:08:17  desired_caps.py[line:26]   INFO : ==========start  app==========
+2019-05-22 10:08:36  desired_caps.py[line:26]   INFO : ==========start  app==========
+2019-05-22 10:54:17  desired_caps.py[line:26]   INFO : ==========start  app==========
+2019-05-22 10:54:59  desired_caps.py[line:26]   INFO : ==========start  app==========
+2019-05-22 10:59:03  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 10:59:05  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 10:59:07  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 10:59:08  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 10:59:10  base.py[line:80]   INFO : ==========swipe   right==========
+2019-05-22 10:59:11  base.py[line:80]   INFO : ==========swipe   right==========
+2019-05-22 11:20:37  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:20:39  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 11:20:40  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 11:20:42  base.py[line:70]   INFO : ==========swipe   left==========
+2019-05-22 11:20:43  base.py[line:80]   INFO : ==========swipe   right==========
+2019-05-22 11:20:44  base.py[line:80]   INFO : ==========swipe   right==========
+2019-05-22 11:20:46  base.py[line:90]   INFO : 保存截图
+2019-05-22 11:24:00  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:24:03  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:26:50  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:26:53  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:27:23  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:27:27  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:28:43  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:28:46  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:29:53  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:29:58  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:32:20  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:32:24  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-22 11:34:52  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-22 11:34:55  base.py[line:93]   INFO : 启动页已保存截图

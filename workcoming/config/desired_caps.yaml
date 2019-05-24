@@ -1,0 +1,19 @@
+platformName: Android
+#模拟器
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62026
+
+#真机
+#deviceName: GWY0217710001353
+#platformVersion: 8.0
+#udid: GWY0217710001353
+
+app: ../app/huolaile.apk
+appPackage: com.wnhz.workscoming
+appActivity: com.wnhz.workscoming.start.activitys.StartActivity
+noReset: False
+#unicodeKeyboard: True
+#resetKeyboard: True
+
+#ip: 127.0.0.1
+#port: 4723
