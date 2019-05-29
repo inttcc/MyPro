@@ -1,46 +1,851 @@
-2019-05-21 15:03:46 - base - 7640 - INFO : 正在定位元素信息，定位方式——>id，value值——>account
-2019-05-21 15:05:00 - base - 12660 - WARNING : locator参数类型错误，必须传元组类型：loc=("id","value")
-2019-05-21 15:13:57  base.py[line:22]   WARNING : locator参数类型错误，必须传元组类型：loc=("id","value")
-2019-05-21 15:42:27  logtoout.py[line:25]   ERROR : that's the error!!!!
-2019-05-21 15:44:07  logtoout.py[line:19]   INFO : right!!!!!!!!!!!!!
-2019-05-21 15:45:01  logtoout.py[line:19]   INFO : That's the info!!!!!!!!!!!!!!!!!!!!!!!!!
-2019-05-21 16:25:14  logtoout.py[line:19]   INFO : ==========start  app==========
-2019-05-21 16:26:26  logtoout.py[line:19]   INFO : ==========start  app==========
-2019-05-21 16:27:59  logtoout.py[line:19]   INFO : ==========start  app==========
-2019-05-21 16:59:30  logtoout.py[line:19]   INFO : ==========start  app==========
-2019-05-21 17:15:08  logtoout.py[line:19]   INFO : ==========start  app==========
-2019-05-21 17:22:00  desired_caps.py[line:25]   INFO : ==========start  app==========
-2019-05-21 17:36:29  desired_caps.py[line:25]   DEBUG : ==========start  app==========
-2019-05-21 17:45:36  logtoout.py[line:14]   ERROR : error!!!!!!!!!!!!!!!!!
-2019-05-22 09:57:31  desired_caps.py[line:26]   INFO : ==========start  app==========
-2019-05-22 10:08:17  desired_caps.py[line:26]   INFO : ==========start  app==========
-2019-05-22 10:08:36  desired_caps.py[line:26]   INFO : ==========start  app==========
-2019-05-22 10:54:17  desired_caps.py[line:26]   INFO : ==========start  app==========
-2019-05-22 10:54:59  desired_caps.py[line:26]   INFO : ==========start  app==========
-2019-05-22 10:59:03  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 10:59:05  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 10:59:07  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 10:59:08  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 10:59:10  base.py[line:80]   INFO : ==========swipe   right==========
-2019-05-22 10:59:11  base.py[line:80]   INFO : ==========swipe   right==========
-2019-05-22 11:20:37  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:20:39  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 11:20:40  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 11:20:42  base.py[line:70]   INFO : ==========swipe   left==========
-2019-05-22 11:20:43  base.py[line:80]   INFO : ==========swipe   right==========
-2019-05-22 11:20:44  base.py[line:80]   INFO : ==========swipe   right==========
-2019-05-22 11:20:46  base.py[line:90]   INFO : 保存截图
-2019-05-22 11:24:00  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:24:03  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:26:50  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:26:53  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:27:23  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:27:27  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:28:43  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:28:46  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:29:53  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:29:58  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:32:20  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:32:24  base.py[line:93]   INFO : 启动页已保存截图
-2019-05-22 11:34:52  desired_caps.py[line:26]   INFO : ==========start   app==========
-2019-05-22 11:34:55  base.py[line:93]   INFO : 启动页已保存截图
+2019-05-28 11:22:30  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 11:22:39  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 11:22:39  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-28 11:22:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 11:22:41  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 11:22:43  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 11:22:44  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 11:22:46  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 11:22:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 11:22:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:22:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 11:22:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:22:55  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 11:22:55  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 11:22:55  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 11:22:55  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 11:22:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 11:22:55  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 11:22:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 11:22:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:22:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 11:22:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:22:59  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 11:22:59  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 11:22:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 11:23:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 11:23:02  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:23:04  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 11:23:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 11:23:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 11:23:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 11:23:15  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:23:17  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 11:23:18  base.py[line:87]   INFO : test_login已保存截图
+2019-05-28 11:23:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 11:23:19  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 11:23:21  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 11:23:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 11:23:21  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:28:26  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:28:35  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:28:35  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 16:28:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:28:38  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:28:39  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:28:40  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:28:42  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:28:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 16:28:44  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:28:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:28:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:28:50  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:28:50  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:28:50  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 16:28:50  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:28:50  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:28:51  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:28:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:28:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:28:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:28:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:28:54  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:28:54  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:28:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:28:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:28:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:28:59  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:28:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:29:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:29:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:29:10  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:12  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:29:14  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:29:21  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:29:29  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:29:29  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-28 16:29:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:29:33  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:29:34  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:29:35  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:29:37  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:29:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 16:29:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:41  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:29:44  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:46  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:29:46  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:29:46  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 16:29:46  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:29:46  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:29:47  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:29:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:29:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:29:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:50  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:29:50  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:29:50  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:29:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:29:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:29:55  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:29:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:30:00  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:30:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:30:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:08  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:30:09  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:30:16  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:30:25  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:30:25  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-28 16:30:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:30:27  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:30:29  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:30:30  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:30:32  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:30:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 16:30:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:30:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:40  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:30:40  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:30:40  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 16:30:40  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:30:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:30:41  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:30:41  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:30:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:30:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:45  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:30:45  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:30:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:30:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:30:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:30:49  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:30:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:30:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:30:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:31:00  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:31:03  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:31:04  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:31:10  run.py[line:18]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-28 16_28_26.html
+2019-05-28 16:36:12  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:36:19  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:36:19  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 16:36:19  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:36:23  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:36:25  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:36:26  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:36:28  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:36:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 16:36:32  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:36:32  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:36:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:36:38  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:36:38  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:36:38  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 16:36:38  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:36:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:36:39  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:36:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:36:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:36:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:36:41  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:36:43  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:36:43  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:36:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:36:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:36:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:36:47  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:36:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:36:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:36:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:36:58  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:01  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:37:04  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:37:10  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:37:20  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:37:20  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-28 16:37:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:37:22  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:37:24  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:37:25  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:37:27  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 16:37:28  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 16:37:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:37:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:35  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:37:35  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:37:35  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 16:37:35  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:37:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:37:36  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:37:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:37:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 16:37:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:40  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:37:40  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 16:37:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:37:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:37:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:45  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:37:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:37:50  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:37:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:37:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:37:59  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:37:59  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:39:36  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:39:44  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:39:44  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 16:39:44  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:39:47  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 16:39:47  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:39:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:39:48  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:39:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:39:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:39:51  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:39:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:39:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:39:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:39:56  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:39:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:40:00  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:40:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:40:07  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:40:09  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:40:10  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-28 16_40_09.png
+2019-05-28 16:40:10  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:40:12  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:40:18  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:40:26  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:40:26  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-28 16:40:26  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:40:29  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 16:40:29  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:40:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:40:29  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:40:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:40:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:40:33  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:40:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:40:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:40:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:40:37  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:40:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:40:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:40:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:40:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:40:51  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:40:52  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-28 16_40_51.png
+2019-05-28 16:40:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:40:54  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:41:00  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:41:07  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:41:07  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-28 16:41:07  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:41:11  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 16:41:11  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:41:11  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:41:11  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:41:11  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:41:12  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:41:14  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:41:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:41:16  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:41:17  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:41:19  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:41:19  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 16:41:24  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 16:41:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 16:41:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:41:32  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:41:33  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-28 16_41_32.png
+2019-05-28 16:41:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:41:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:41:36  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:41:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:41:36  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 16:58:58  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:59:04  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:59:43  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 16:59:48  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 16:59:48  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 16:59:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 16:59:52  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 16:59:52  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 16:59:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 16:59:53  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 16:59:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 16:59:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 16:59:56  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 16:59:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 16:59:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 16:59:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:00:01  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:00:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 17:00:07  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 17:00:12  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 17:00:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:00:16  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:00:17  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-28 17_00_16.png
+2019-05-28 17:00:17  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 17:00:17  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 17:00:23  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 17:00:30  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 17:00:30  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-28 17:00:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 17:00:33  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 17:00:33  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 17:00:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 17:00:34  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 17:00:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 17:00:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:00:37  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:00:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 17:00:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 17:00:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:00:41  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:00:41  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 17:00:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 17:00:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 17:00:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:00:56  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:00:57  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-28 17_00_56.png
+2019-05-28 17:00:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 17:00:57  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 17:01:03  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 17:01:10  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 17:01:10  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-28 17:01:10  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 17:01:14  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-28 17:01:14  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 17:01:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 17:01:15  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 17:01:15  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 17:01:16  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:01:18  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:01:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 17:01:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 17:01:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:01:22  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:01:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 17:01:28  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 17:01:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 17:01:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:01:37  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:01:38  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-28 17_01_37.png
+2019-05-28 17:01:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 17:01:40  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 17:01:46  run.py[line:18]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-28 16_59_43.html
+2019-05-28 17:46:21  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 17:46:29  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 17:46:29  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 17:46:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 17:46:32  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 17:46:34  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 17:46:35  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 17:46:36  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 17:46:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 17:46:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:46:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 17:46:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:46:45  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:46:45  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 17:46:45  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 17:46:45  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 17:46:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 17:46:46  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 17:46:46  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 17:46:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:46:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 17:46:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:46:50  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:46:50  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 17:46:50  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 17:46:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 17:46:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:46:54  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:46:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 17:46:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 17:47:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 17:47:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 17:47:07  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 17:47:08  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-28 17_47_07.png
+2019-05-28 17:47:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 17:47:08  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 17:47:14  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 18:05:59  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 18:06:12  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 18:06:12  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 18:06:12  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 18:06:16  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:06:17  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:06:18  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:06:20  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:06:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 18:06:24  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:06:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:31  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:06:31  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:06:31  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 18:06:31  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 18:06:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 18:06:31  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 18:06:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 18:06:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:06:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:35  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:06:35  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:06:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 18:06:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 18:06:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:40  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:06:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 18:06:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 18:06:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 18:06:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:06:55  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:06:57  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-28 18_06_55.png
+2019-05-28 18:06:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 18:06:57  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 18:07:03  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 18:07:13  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 18:07:13  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-28 18:07:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 18:07:16  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:07:17  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:07:19  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:07:20  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:07:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 18:07:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:23  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:07:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:29  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:07:29  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:07:29  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 18:07:29  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 18:07:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 18:07:29  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 18:07:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 18:07:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:07:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:33  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:07:33  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:07:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 18:07:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 18:07:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:39  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:07:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 18:07:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 18:07:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 18:07:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:07:52  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:07:53  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-28 18_07_52.png
+2019-05-28 18:07:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 18:07:53  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 18:07:59  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 18:08:08  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 18:08:08  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-28 18:08:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 18:08:10  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:08:12  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:08:13  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:08:14  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:08:15  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-28 18:08:17  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:08:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:23  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:08:23  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:08:23  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-28 18:08:23  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-28 18:08:23  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-28 18:08:24  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-28 18:08:24  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-28 18:08:24  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-28 18:08:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:27  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:08:27  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-28 18:08:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-28 18:08:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-28 18:08:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:32  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:08:32  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-28 18:08:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-28 18:08:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-28 18:08:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-28 18:08:45  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-28 18:08:46  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-28 18_08_45.png
+2019-05-28 18:08:46  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-28 18:08:48  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-28 18:08:54  run.py[line:20]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-28 18_05_59.html
+2019-05-28 18:11:13  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-28 18:11:20  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-28 18:11:20  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-28 18:11:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-28 18:11:23  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:11:25  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:11:26  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:11:28  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-28 18:11:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 11:38:24  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 11:38:45  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 11:38:45  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-29 11:38:46  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 11:38:49  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:38:51  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:38:52  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:38:54  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:38:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 11:38:58  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:00  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:39:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:06  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:39:06  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:39:06  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 11:39:06  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 11:39:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 11:39:06  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 11:39:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 11:39:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:39:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:12  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:39:12  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:39:12  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 11:39:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 11:39:15  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:17  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:39:17  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 11:39:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 11:39:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 11:39:28  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:30  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:39:31  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-29 11_39_30.png
+2019-05-29 11:39:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 11:39:32  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 11:39:38  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 11:39:48  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 11:39:48  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-29 11:39:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 11:39:51  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:39:52  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:39:54  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:39:55  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:39:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 11:39:57  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:39:58  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:40:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:40:03  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:40:03  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:40:03  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 11:40:03  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 11:40:03  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 11:40:04  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 11:40:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 11:40:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:40:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:40:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:40:08  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:40:08  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:40:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 11:40:10  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 11:40:11  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:40:13  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:40:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 11:40:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 11:40:23  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 11:40:24  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:40:26  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:40:27  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-29 11_40_26.png
+2019-05-29 11:40:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 11:40:27  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 11:40:33  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 11:40:41  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 11:40:41  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-29 11:40:41  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 11:40:43  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:40:45  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:40:46  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:40:48  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:40:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 11:40:51  common_func.py[line:28]   INFO : 不是首次进入app，无引导图
+2019-05-29 11:40:51  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 11:40:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 11:40:53  common_func.py[line:57]   INFO : 未检测到首页弹框，直接下一步操作
+2019-05-29 11:40:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 11:40:55  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 11:41:03  run.py[line:20]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-29 11_38_24.html
+2019-05-29 11:43:55  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 11:44:05  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 11:44:05  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-29 11:44:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 11:44:07  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:44:09  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:44:10  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:44:12  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 11:44:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 11:44:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:44:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:20  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:44:20  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:44:20  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 11:44:20  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 11:44:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 11:44:21  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 11:44:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 11:44:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 11:44:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:25  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:44:25  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 11:44:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 11:44:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 11:44:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:29  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:44:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 11:44:34  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 11:44:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 11:44:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 11:44:42  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 11:44:44  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-29 11_44_42.png
+2019-05-29 11:44:44  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 11:44:46  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:38:41  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:38:50  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:38:50  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-29 13:38:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:38:53  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:38:54  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:38:56  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:38:57  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:38:58  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:38:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:00  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:39:03  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:05  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:39:05  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:39:05  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:39:05  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:39:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:39:06  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:39:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:39:07  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:39:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:10  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:39:10  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:39:10  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:39:12  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:39:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:15  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:39:15  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:39:20  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:39:25  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:39:26  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:28  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:39:30  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-29 13_39_28.png
+2019-05-29 13:39:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:39:30  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:39:36  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:39:45  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:39:45  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-29 13:39:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:39:48  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:39:49  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:39:51  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:39:52  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:39:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:39:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:39:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:39:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:01  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:01  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:40:01  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:40:01  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:40:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:40:02  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:40:02  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:40:03  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:03  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:40:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:06  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:06  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:40:06  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:40:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:40:09  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:11  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:11  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:40:16  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:40:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:40:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:25  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:26  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-29 13_40_25.png
+2019-05-29 13:40:26  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:40:26  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:40:31  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:40:39  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:40:39  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-29 13:40:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:40:42  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:40:43  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:40:45  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:40:46  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:40:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:40:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:40:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:54  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:54  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:40:54  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:40:54  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:40:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:40:54  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:40:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:40:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:40:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:40:58  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:40:58  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:40:58  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:41:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:41:01  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:41:03  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:41:03  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:41:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:41:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:41:14  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:41:17  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:41:18  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-29 13_41_17.png
+2019-05-29 13:41:18  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:41:20  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:41:26  run.py[line:20]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-29 13_38_41.html
+2019-05-29 13:54:19  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:54:28  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:54:28  test_login.py[line:22]   INFO : **********test_error_psw**********
+2019-05-29 13:54:28  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:54:31  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:54:33  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:54:34  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:54:36  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:54:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:54:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:54:39  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:54:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:54:44  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:54:44  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:54:44  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:54:44  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:54:44  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:54:45  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:54:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:54:46  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:54:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:54:47  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:54:49  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:54:49  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:54:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:54:51  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:54:52  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:54:54  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:54:54  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:54:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:55:04  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:55:05  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:07  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:55:08  base.py[line:87]   INFO : test_error_psw已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_psw_2019-05-29 13_55_07.png
+2019-05-29 13:55:08  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:55:08  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:55:14  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:55:21  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:55:21  test_login.py[line:13]   INFO : **********test_error_user**********
+2019-05-29 13:55:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:55:24  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:55:25  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:55:27  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:55:28  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:55:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:55:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:55:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:36  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:55:36  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:55:36  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:55:36  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:55:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:55:36  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:55:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:55:37  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:55:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:40  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:55:40  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:55:40  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:55:42  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:55:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:45  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:55:45  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:55:50  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:55:55  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:55:56  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:55:58  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:55:59  base.py[line:87]   INFO : test_error_user已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_error_user_2019-05-29 13_55_58.png
+2019-05-29 13:55:59  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:55:59  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:56:05  myunit.py[line:11]   INFO : **********setUp**********
+2019-05-29 13:56:13  desired_caps.py[line:26]   INFO : ==========start   app==========
+2019-05-29 13:56:13  test_login.py[line:30]   INFO : **********test_login**********
+2019-05-29 13:56:13  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_viewpager
+2019-05-29 13:56:16  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:56:17  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:56:18  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:56:20  base.py[line:73]   INFO : ==========swipe   left==========
+2019-05-29 13:56:21  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/activity_guide_enter
+2019-05-29 13:56:22  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:23  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:56:27  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:29  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:56:29  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:56:29  common_func.py[line:26]   INFO : ==========引导图操作完成==========
+2019-05-29 13:56:29  common_func.py[line:51]   INFO : ==========正在检测首页弹框==========
+2019-05-29 13:56:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/view_red_packet
+2019-05-29 13:56:29  common_func.py[line:55]   INFO : 首页弹框已点击关闭
+2019-05-29 13:56:29  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/main_my_ll
+2019-05-29 13:56:30  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_space_top
+2019-05-29 13:56:31  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:33  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:56:33  common_func.py[line:41]   INFO : ==========已跳过新手指引操作==========
+2019-05-29 13:56:33  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_sex
+2019-05-29 13:56:35  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/iv_myInfo_head
+2019-05-29 13:56:36  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:38  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:56:38  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_phonenumber
+2019-05-29 13:56:43  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_code
+2019-05-29 13:56:48  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/newlogin_loginbtn
+2019-05-29 13:56:49  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/matte_iv
+2019-05-29 13:56:52  common_func.py[line:43]   INFO : 未检测到有新手指导图，直接下一步操作
+2019-05-29 13:56:53  base.py[line:87]   INFO : test_login已保存截图，保存地址为：E:\PycharmProjects\workcoming\screenshots\test_login_2019-05-29 13_56_52.png
+2019-05-29 13:56:53  base.py[line:22]   INFO : 正在定位元素信息，定位方式——>id，value值——>com.wnhz.workscoming:id/dia_submit
+2019-05-29 13:56:55  myunit.py[line:15]   INFO : **********tearDown**********
+2019-05-29 13:57:01  run.py[line:20]   INFO : 测试报告已生成，路径为：E:\PycharmProjects\workcoming\reports\test_report_2019-05-29 13_54_19.html

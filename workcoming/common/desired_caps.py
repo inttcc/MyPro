@@ -4,7 +4,7 @@ import yaml,os,logging,logging.config
 from appium import webdriver
 
 CON_LOG = '../config/log.conf'
-logging.config.fileConfig(CON_LOG)
+logging.config.fileConfig(CON_LOG,)
 logging= logging.getLogger()
 
 

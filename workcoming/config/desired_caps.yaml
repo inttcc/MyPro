@@ -11,7 +11,7 @@ deviceName: 127.0.0.1:62026
 app: ../app/huolaile.apk
 appPackage: com.wnhz.workscoming
 appActivity: com.wnhz.workscoming.start.activitys.StartActivity
-noReset: False
+noReset: False   #False
 #unicodeKeyboard: True
 #resetKeyboard: True
 
